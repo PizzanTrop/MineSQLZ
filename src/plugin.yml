@@ -1,0 +1,8 @@
+name: ItemMoveSQL
+main: itemmovesql.Main
+version: 3.0.dev
+author: [Shevchik, ptnkjke]
+load: STARTUP
+commands:
+  imsql:
+    usage: imsql help
